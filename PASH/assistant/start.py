@@ -96,7 +96,7 @@ async def starkislub(event):
     await event.reply(rorza)
 @tgbot.on(events.NewMessage(pattern="^/alive", func=lambda e: e.sender_id == bot.uid))
 async def starkislub(event):
-    razan = "**AlAlosma USERBOT**\n•━═━═━═━═━━═━═━═━═━•‌‌\n**- حالة البوت **  يعمـل بنجـاح\n**- اصدار التليثون  **: 1.23.0\n**- اصدار البايثون **: 3.9.6\n**- يوزرك ** {mention}\n**- CH : @xxx_Venus\n•━═━═━═━═━━═━═━═━═━•‌‌\n"
+    razan = "**Venus USERBOT**\n•━═━═━═━═━━═━═━═━═━•‌‌\n**- حالة البوت **  يعمـل بنجـاح\n**- اصدار التليثون  **: 1.23.0\n**- اصدار البايثون **: 3.9.6\n**- يوزرك ** {mention}\n**- CH : @xxx_Venus\n•━═━═━═━═━━═━═━═━═━•‌‌\n"
     await event.reply(razan)
     
     
