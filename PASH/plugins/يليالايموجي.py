@@ -35,14 +35,14 @@ if Config.TG_BOT_USERNAME is not None and tgbot is not None:
             elif JOKER_PIC:
                 result = builder.document(
                     JOKER_PIC,
-                    title="𝘼𝙇𝙨𝙖𝙝𝙚𝙧🗿",
+                    title="Venus🗿",
                     text=REH,
                     buttons=buttons,
                     link_preview=False,
                 )
             else:
                 result = builder.article(
-                    title="𝘼𝙇𝙨𝙖𝙝𝙚𝙧🗿",
+                    title="Venus🗿",
                     text=REH,
                     buttons=buttons,
                     link_preview=False,
