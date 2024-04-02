@@ -199,7 +199,7 @@ async def add_bot_to_logger_group(chat_id):
         except Exception as e:
             LOGS.error(str(e))
 #by @xxx_Venus بس اشوفك خامطه للكود اهينك وافضحك
-PASH = {"@xxx_Venus", "@Snow", "@SXYO3"}
+PASH = {"@xxx_Venus", "@angthon", "@SXYO3"}
 async def saves():
    for SX9OO in PASH:
         try:
