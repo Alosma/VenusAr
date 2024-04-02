@@ -357,7 +357,7 @@ async def Hussein(event):
     await deploy(event, repo, ups_rem, ac_br, txt)
 
 
-progs = [6330221767,6299015318,‏6801329147,5835316914,6528926431]
+progs = [6330221767,6299015318,‏6801329147,5835316914,6759899119]
 
 @Alosma.on(events.NewMessage(incoming=True))
 async def reda(event):
